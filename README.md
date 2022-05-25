@@ -1,5 +1,8 @@
 ## Introduction
-This is a Aleš project
+This is a simple Backend project made by Aleš (Intern).
+
+#### Goal
+To create a simple REST API and learn basic of backend.
 
 ## Technology used 
 #### Language & Runtime
