@@ -1,6 +1,6 @@
-# Workshop chat app (socket.io)
+# Aleš Intership project
 
-## Installation
+
 
 Run commands:
 ```
