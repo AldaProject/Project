@@ -1,11 +1,13 @@
-# Aleš Intership project
+## Introduction
+This is a Aleš project
 
+## Technology used 
 
-
-Run commands:
-```
-npm install
-webpack --watch
-```
+- Language: ``TypeScript``
+- Runtime: ``Node.js``
+- Framework: ``Express``
+- Database: ``PostresSQL``
+- Local development: ``Docekr & docker-compose``
+- API: ``REST - JSON``
 
 Result files are in the `dist` folder.
