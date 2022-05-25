@@ -10,13 +10,13 @@ To create a simple REST API and learn basic of backend.
 - ``Node.js``
 
 #### Framework
-- ``Express``
+- [``Express``](https://expressjs.com)
 
 #### Database
-- ``PostresSQL``
+- [``PostresSQL``](https://www.postgresql.org)
 
 #### Containerization
-- [``Docekr``](https://www.docker.com/)
+- [``Docker``](https://www.docker.com/)
 
 #### API
 - ``REST - JSON``
