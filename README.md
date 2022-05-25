@@ -6,8 +6,8 @@ To create a simple REST API and learn basic of backend.
 
 ## Technology used 
 #### Language & Runtime
-- [``TypeScript``](https://www.typescriptlang.org)
-- [``Node.js``](https://nodejs.org/en/)
+- [``TypeScript``](https://www.typescriptlang.org) 
+- [``Node.js``](https://nodejs.org/en/) v16.15.0
 
 #### Framework
 - [``Express``](https://expressjs.com)
