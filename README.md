@@ -1,1 +1,11 @@
-# This is a test project from Alda
+# Workshop chat app (socket.io)
+
+## Installation
+
+Run commands:
+```
+npm install
+webpack --watch
+```
+
+Result files are in the `dist` folder.
