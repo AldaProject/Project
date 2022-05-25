@@ -6,8 +6,8 @@ To create a simple REST API and learn basic of backend.
 
 ## Technology used 
 #### Language & Runtime
-- ``TypeScript``
-- ``Node.js``
+- [``TypeScript``](https://www.typescriptlang.org)
+- [``Node.js``](https://nodejs.org/en/)
 
 #### Framework
 - [``Express``](https://expressjs.com)
@@ -20,5 +20,3 @@ To create a simple REST API and learn basic of backend.
 
 #### API
 - ``REST - JSON``
-
-Result files are in the `dist` folder.
