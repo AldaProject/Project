@@ -2,12 +2,20 @@
 This is a Aleš project
 
 ## Technology used 
+#### Language & Runtime
+- ``TypeScript``
+- ``Node.js``
 
-- Language: ``TypeScript``
-- Runtime: ``Node.js``
-- Framework: ``Express``
-- Database: ``PostresSQL``
-- Local development: ``Docekr & docker-compose``
-- API: ``REST - JSON``
+#### Framework
+- ``Express``
+
+#### Database
+- ``PostresSQL``
+
+#### Containerization
+- ``Docekr``
+
+#### API
+- ``REST - JSON``
 
 Result files are in the `dist` folder.
