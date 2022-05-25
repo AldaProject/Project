@@ -16,7 +16,7 @@ To create a simple REST API and learn basic of backend.
 - ``PostresSQL``
 
 #### Containerization
-- ``Docekr``
+- [Docekr] (https://www.docker.com/)
 
 #### API
 - ``REST - JSON``
