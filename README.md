@@ -23,3 +23,4 @@ To create a simple REST API and learn basic of backend.
 
 #### Modules
 - ``Express`` ``cors`` ``body-parser`` ``sequelize`` ``pg`` ``pg-hstore`` ``jsonwebtoken``
+- instal command = ``npm install express sequelize pg pg-hstore body-parser cors jsonwebtoken --save``
