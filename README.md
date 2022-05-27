@@ -20,3 +20,6 @@ To create a simple REST API and learn basic of backend.
 
 #### API
 - ``REST - JSON``
+
+#### Modules
+- ``Express`` ``cors`` ``body-parser`` ``sequelize`` ``pg`` ``pg-hstore`` ``jsonwebtoken``
